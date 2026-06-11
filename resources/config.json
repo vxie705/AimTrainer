@@ -1,0 +1,42 @@
+{
+  "window": {
+    "width": 800,
+    "height": 600,
+    "title": "Aim Trainer - Python/Pygame",
+    "fullscreen": false,
+    "fps": 240
+  },
+  "sensitivity": {
+    "multiplier": 1.0,
+    "invert_y": false,
+    "raw_input": true
+  },
+  "target": {
+    "radius": 30,
+    "min_radius": 15,
+    "max_radius": 50,
+    "color": [255, 50, 50],
+    "hit_color": [50, 255, 50],
+    "lifetime_ms": 2000,
+    "spawn_delay_ms": 500,
+    "max_targets": 1
+  },
+  "crosshair": {
+    "size": 20,
+    "thickness": 2,
+    "color": [0, 255, 0],
+    "gap": 4,
+    "dot_radius": 2
+  },
+  "game_mode": {
+    "mode": "flicking",
+    "total_targets": 30,
+    "infinite": false
+  },
+  "ui": {
+    "font_name": null,
+    "font_size": 18,
+    "text_color": [255, 255, 255],
+    "background_alpha": 128
+  }
+}
