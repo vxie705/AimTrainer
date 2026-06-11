@@ -131,4 +131,3 @@ Equivalente al sistema de sensibilidad de juegos competitivos: `eDPI = DPI × se
 ## 📄 Licencia
 
 Proyecto educativo de práctica de arquitectura de software.
->>>>>>> 05d9917 (Aimtrainer)
